@@ -49,7 +49,7 @@ Face_Recognition_Attendance/
 ## ⚡ How to Run the Project
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/face-recognition-attendance.git
+   git clone https://github.com/TusharFodse/face-recognition-attendance.git
    cd face-recognition-attendance
    pip install -r requirements.txt
    python attendence.py
