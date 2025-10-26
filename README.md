@@ -50,8 +50,9 @@ Face_Recognition_Attendance/
 1. **Clone the repository**
    ```bash
    git clone https://github.com/yourusername/face-recognition-attendance.git
-cd face-recognition-attendance
-pip install -r requirements.txt
-Run the GUI
+   cd face-recognition-attendance
+   pip install -r requirements.txt
+   python attendence.py
 
-python attendence.py
+
+
